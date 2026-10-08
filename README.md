@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./profile-terminal.svg" width="900" alt="Animated terminal profile card" />
+
 # Sai Kiran Anugula
 
 **Data Engineer | Python • SQL • Spark • Cloud • Analytics**
@@ -17,40 +19,13 @@ Building reliable data pipelines, analytics systems, and cloud-ready data platfo
 
 <div align="center">
 
-<pre>
-sai@github ~ $ whoami
+### `sai@github ~ $ whoami`
 
-Data Engineer focused on:
-ETL / ELT • Data Modeling • Batch & Streaming • Cloud Data Platforms
-
-sai@github ~ $ cat stack.txt
-
-Python | SQL | Apache Spark | PySpark | Kafka
-Snowflake | BigQuery | PostgreSQL | dbt | Airflow
-Azure | GCP | Docker | Linux | Delta Lake | Iceberg
-
-sai@github ~ $ ls projects/
-
-MoteIQ      ETL Pipelines      Data Analytics      Cloud Data Engineering
-
-sai@github ~ $ echo "Build systems. Ship data. Keep learning."
-
-Build systems. Ship data. Keep learning.
-</pre>
-
-</div>
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asksaikiran&hide_border=true&area=true" width="95%" alt="GitHub activity graph" />
+**Data Engineer focused on building reliable data systems**
 
 </div>
 
 ## 🧰 Tech Stack
-
-<div align="center">
 
 **Data Engineering**  
 Python · SQL · ETL/ELT · Data Ingestion · Data Transformation · Data Modeling · Data Quality
@@ -63,8 +38,6 @@ Snowflake · BigQuery · PostgreSQL · dbt · Delta Lake · Apache Iceberg · Di
 
 **Cloud & DevOps**  
 Azure · GCP · Docker · Linux/Bash · Git · Jupyter
-
-</div>
 
 ## 🚀 Featured Project
 
