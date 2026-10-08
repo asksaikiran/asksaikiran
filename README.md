@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="./profile-terminal.svg" width="900" alt="Animated terminal profile card" />
+<table><tr>
+<td valign="top"><img src="./sai-ascii.svg" width="620" alt="Animated ASCII portrait" /></td>
+<td valign="top"><img src="./profile-terminal.svg" width="420" alt="Terminal profile card" /></td>
+</tr></table>
 
 # Sai Kiran Anugula
 
