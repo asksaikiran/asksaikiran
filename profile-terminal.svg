@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250">
+<rect width="900" height="250" rx="14" fill="#0d1117"/>
+<rect x="0" y="0" width="900" height="38" rx="14" fill="#161b22"/>
+<circle cx="22" cy="19" r="6" fill="#ff5f56"/>
+<circle cx="43" cy="19" r="6" fill="#ffbd2e"/>
+<circle cx="64" cy="19" r="6" fill="#27c93f"/>
+<text x="88" y="25" fill="#8b949e" font-family="monospace" font-size="14">sai@github:~</text>
+<g fill="#c9d1d9" font-family="monospace" font-size="18">
+<text x="35" y="78">sai@github ~ $ whoami</text>
+<text x="35" y="108">Data Engineer focused on reliable data systems</text>
+<text x="35" y="143">Python  SQL  Spark  Kafka  Snowflake  BigQuery</text>
+<text x="35" y="178">Airflow  dbt  Azure  GCP  Docker  Delta Lake</text>
+<text x="35" y="213">Build systems. Ship data. Keep learning.</text>
+</g>
+</svg>
