@@ -1,15 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250">
-<rect width="900" height="250" rx="14" fill="#0d1117"/>
-<rect x="0" y="0" width="900" height="38" rx="14" fill="#161b22"/>
-<circle cx="22" cy="19" r="6" fill="#ff5f56"/>
-<circle cx="43" cy="19" r="6" fill="#ffbd2e"/>
-<circle cx="64" cy="19" r="6" fill="#27c93f"/>
-<text x="88" y="25" fill="#8b949e" font-family="monospace" font-size="14">sai@github:~</text>
-<g fill="#c9d1d9" font-family="monospace" font-size="18">
-<text x="35" y="78">sai@github ~ $ whoami</text>
-<text x="35" y="108">Data Engineer focused on reliable data systems</text>
-<text x="35" y="143">Python  SQL  Spark  Kafka  Snowflake  BigQuery</text>
-<text x="35" y="178">Airflow  dbt  Azure  GCP  Docker  Delta Lake</text>
-<text x="35" y="213">Build systems. Ship data. Keep learning.</text>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="590" viewBox="0 0 420 590">
+<rect width="100%" height="100%" rx="14" fill="#0d1117"/>
+<rect width="100%" height="34" rx="14" fill="#161b22"/>
+<circle cx="18" cy="17" r="5" fill="#ff5f56"/><circle cx="36" cy="17" r="5" fill="#ffbd2e"/><circle cx="54" cy="17" r="5" fill="#27c93f"/>
+<text x="72" y="22" fill="#8b949e" font-family="monospace" font-size="10">saikiran@github:~$ whoami</text>
+<style>@keyframes line{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:translateY(0)}}.l{opacity:0;animation:line .28s ease-out forwards}@media(prefers-reduced-motion:reduce){.l{opacity:1;animation:none}}</style>
+<g font-family="monospace">
+<text class="l" style="animation-delay:.15s" x="24" y="72" fill="#58a6ff" font-size="13">$ whoami</text>
+<text class="l" style="animation-delay:.30s" x="24" y="98" fill="#c9d1d9" font-size="12">Sai Kiran Anugula</text>
+<text class="l" style="animation-delay:.45s" x="24" y="126" fill="#8b949e" font-size="11">Data Engineer</text>
+<text class="l" style="animation-delay:.60s" x="24" y="168" fill="#58a6ff" font-size="13">$ stack</text>
+<text class="l" style="animation-delay:.75s" x="24" y="194" fill="#c9d1d9" font-size="11">Python  •  SQL  •  Spark</text>
+<text class="l" style="animation-delay:.90s" x="24" y="220" fill="#c9d1d9" font-size="11">PySpark • Kafka • Airflow</text>
+<text class="l" style="animation-delay:1.05s" x="24" y="246" fill="#c9d1d9" font-size="11">Snowflake • BigQuery • dbt</text>
+<text class="l" style="animation-delay:1.20s" x="24" y="272" fill="#c9d1d9" font-size="11">Azure • GCP • Docker • Linux</text>
+<text class="l" style="animation-delay:1.35s" x="24" y="314" fill="#58a6ff" font-size="13">$ focus</text>
+<text class="l" style="animation-delay:1.50s" x="24" y="340" fill="#c9d1d9" font-size="11">ETL / ELT pipelines</text>
+<text class="l" style="animation-delay:1.65s" x="24" y="366" fill="#c9d1d9" font-size="11">Data modeling &amp; quality</text>
+<text class="l" style="animation-delay:1.80s" x="24" y="392" fill="#c9d1d9" font-size="11">Batch + real-time processing</text>
+<text class="l" style="animation-delay:1.95s" x="24" y="418" fill="#c9d1d9" font-size="11">Cloud data platforms</text>
+<text class="l" style="animation-delay:2.10s" x="24" y="460" fill="#58a6ff" font-size="13">$ project</text>
+<text class="l" style="animation-delay:2.25s" x="24" y="486" fill="#c9d1d9" font-size="11">MoteIQ — motel analytics</text>
+<text class="l" style="animation-delay:2.40s" x="24" y="528" fill="#58a6ff" font-size="13">$ motto</text>
+<text class="l" style="animation-delay:2.55s" x="24" y="554" fill="#c9d1d9" font-size="11">Build systems. Ship data.</text>
+</g></svg>
